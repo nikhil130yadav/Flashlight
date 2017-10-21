@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+
+    <string name="on"> Tap to turn ON flashLight</string>
+    <string name="off">tap to turn OFF flashLight</string>
+    <string name="notification_title">FlashLight </string>
+    <string name="notification_content_title">Tap to turn Off </string>
+</resources>
